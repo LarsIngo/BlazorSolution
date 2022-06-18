@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2022-06-18T09:54:11.5874603Z;True|2022-06-18T11:52:45.0289410+02:00;True|2022-06-18T11:52:11.4580679+02:00;True|2022-06-18T11:41:25.4998089+02:00;True|2022-06-17T22:49:20.8409051+02:00;True|2022-06-17T22:48:40.7087668+02:00;True|2022-06-17T22:25:42.5722580+02:00;False|2022-06-17T22:25:19.8864787+02:00;</History>
+    <_PublishTargetUrl>C:\Users\ivarb\source\repos\BlazorApp\BlazorApp\bin\Release\net6.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
